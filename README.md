@@ -1,7 +1,7 @@
 ## Welcome to Maria Eduarda's profile 🫧
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-<img src="http://www.w3.org/2000/svg"/>
+<img width="32" height="32" src="https://img.icons8.com/windows/32/instagram-new.png" alt="instagram-new"/>
 
 
 
