@@ -6,4 +6,4 @@
 <a href = "https://instagram.com/_duudafs"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/instagram-new.png" alt="instagram-new"></a>
 <a href = "mailto:dudascomparin@gmail.com"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/gmail-new.png" alt="gmail-new"></a>
 </p>
-<h4><img width="24" height="24" src="https://img.icons8.com/material-outlined/24/1A1A1A/user--v1.png" alt="user--v1"/>  About me</h4>
+<h4><img width="24" height="34" src="https://img.icons8.com/material-outlined/24/1A1A1A/user--v1.png" alt="user--v1"/>  About me</h4>
