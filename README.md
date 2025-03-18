@@ -1,4 +1,4 @@
-## Welcome to Maria Eduarda's profile 🫧
+## Welcome to Maria Eduarda's profile 
 
 <div>
 <a href = "https://instagram.com/_duudafs"><<img width="24" height="24" src="https://img.icons8.com/color-pixels/32/instagram-new.png" alt="instagram-new"/>
