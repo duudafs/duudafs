@@ -1,7 +1,8 @@
 ## Welcome to my profile 
 <h3 align="center">Hi! I'm Maria Eduarda</h3>
 
-<h3><img width="30" height="30" src="https://img.icons8.com/offices/30/pixel-star.png" alt="pixel-star">About me</h3>
+<h3><img width="24" height="24" src="https://img.icons8.com/material-outlined/24/F25081/multiple-stars.png" alt="multiple-stars"/>>About me</h3>
+
 
 <div>
 <a href = "https://instagram.com/_duudafs"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/instagram-new.png" alt="instagram-new"/>
