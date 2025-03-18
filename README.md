@@ -6,4 +6,4 @@
 <a href = "mailto:dudascomparin@gmail.com"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/gmail-new.png" alt="gmail-new"></>
 </div>
   
-<h4><img width="16" height="16" src="https://img.icons8.com/tiny-glyph/16/F25081/person-male.png" alt="person-male"/>  About me</h4>
+<h4><img width="15" height="15" src="https://img.icons8.com/tiny-glyph/16/F25081/person-male.png" alt="person-male"/>  About me</h4>
