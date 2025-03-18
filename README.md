@@ -1,7 +1,7 @@
 ## Welcome to my profile 
 <h3 align="center">Hi! I'm Maria Eduarda</h3>
 
-<h3><img width="24" height="24" src="https://img.icons8.com/material-outlined/24/F25081/multiple-stars.png" alt="multiple-stars"/>>About me</h3>
+<h3><img width="16" height="16" src="https://img.icons8.com/tiny-glyph/16/F25081/person-male.png" alt="person-male"/>About me</h3>
 
 
 <div>
