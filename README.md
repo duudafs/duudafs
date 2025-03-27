@@ -1,6 +1,6 @@
 ## Welcome to my profile 
 <h3 align="center">Hi! I'm Maria Eduarda</h3>
-<h6>i'm 19, living in Brazil and studying at Unicesumar!
+<h6>i'm 19, living in Brazil and studying at Unicesumar!</h6>
 
 
 <p align="center">
@@ -13,5 +13,5 @@
 
 
 <p text-align="center">
-! I recently started as an intership at the IngaFlex Labels, working in the I.T area! </h6>
+<h6>I've recently started as an intership at the IngaFlex Labels, working in the I.T area!</h6>
 </p>
