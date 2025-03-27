@@ -7,7 +7,7 @@
 <a href = "mailto:dudascomparin@gmail.com"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/gmail-new.png" alt="gmail-new"></a>
 <a href = "mailto:dudascomparin@gmail.com"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/linkedin.png" alt="linkedin"></a>
 </p>
-<h4><img width="24" height="24" src="https://img.icons8.com/pulsar-color/48/spa-flower.png" alt="spa-flower">  About me...</h4>
+<h4><img width="24" height="24" src="https://img.icons8.com/stickers/100/spa-flower.png" alt="spa-flower">  About me...</h4>
 
 
 
