@@ -10,5 +10,5 @@
 <h4><img width="16" height="16" src="https://img.icons8.com/ios-glyphs/50/github-2.png" alt="github-2">  About me...</h4>
 
 <p text-align="center">
-<h6>i'm 19, living in Brazil and studying at Unicesumar!! I recently started as an intership at the IngaFlex Labels, working in the T.I area! </h6>
+<h6>i'm 19, living in Brazil and studying at Unicesumar!! I recently started as an intership at the IngaFlex Labels, working in the I.T area! </h6>
 </p>
