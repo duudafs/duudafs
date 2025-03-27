@@ -15,6 +15,8 @@
 <h5 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/cursor.png" alt="cursor"> Learning... </h4>
 <div>
   <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" heigth="50" width="60">
+  <img src =" https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" align="center" heigth="50" width="60">
+ 
 </div>
 
 
