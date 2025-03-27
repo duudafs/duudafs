@@ -13,5 +13,5 @@
 <h6>I've recently started as an intership at the IngaFlex Labels, working in the I.T area!</h6>
 </p>
 <h5 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/cursor.png" alt="cursor"> Learning... </h4>
-<a img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+< img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
