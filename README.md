@@ -7,7 +7,7 @@
 <a href = "mailto:dudascomparin@gmail.com"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/gmail-new.png" alt="gmail-new"></a>
 <a href = "mailto:dudascomparin@gmail.com"><img width="24" height="24" src="https://img.icons8.com/color-pixels/32/linkedin.png" alt="linkedin"></a>
 </p>
-<h4><img width="16" height="16" src="src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-android-operating-system-bot-isolated-on-a-white-background-development-tritone-tal-revivo.png" alt="external-android-operating-system-bot-isolated-on-a-white-background-development-tritone-tal-revivo">  About me...</h4>
+<h4><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-android-operating-system-bot-isolated-on-a-white-background-development-tritone-tal-revivo.png" alt="external-android-operating-system-bot-isolated-on-a-white-background-development-tritone-tal-revivo">  About me...</h4>
 
 
 
