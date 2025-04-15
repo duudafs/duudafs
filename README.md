@@ -10,7 +10,7 @@
 </p>
 <h5 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/peach.png" alt="peach">  About me...</h4>
 <p text-align="center">
-<h6>I've recently started as an intership at the IngaFlex Labels, working in the I.T area!</h6>
+<h6>I've recently started as an intership at the IngaFlex Labels, working in the I.T area! Always liked tecnoly and this kins os stuff since I was a kid. I'm curious about discovering new things, studying new lenguages and be creative. If you need help, ask me! It would be a pleasure to help you!!! Thanks for visiting my profile. </h6>
 </p>
 <h5 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/cursor.png" alt="cursor">  Learning: </h4> 
 <div>
