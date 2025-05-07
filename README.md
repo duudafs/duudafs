@@ -1,15 +1,5 @@
 ## Welcome to my profile 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Chango&family=Oleo+Script+Swash+Caps:wght@400;700&display=swap');
 
-  .oleo-script-swash-caps-regular {
-  font-family: "Oleo Script Swash Caps", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-</style>
-
-<h6 class="oleo-script-swash-caps-regular">Welcome to my profile</h6>
 
 <h3 align="center">Hi! I'm Maria Eduarda</h3>
 <h6 align="center">i'm 19, living in Brazil and studying at Unicesumar!</h6>
