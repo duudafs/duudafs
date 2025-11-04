@@ -13,7 +13,7 @@
 <h5 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/peach.png" alt="peach">  About me...</h4>
 <p text-align="center">
   <h6>✧ Advanced level english</h6>
-<h6>✧ I've recently started as an intership at the IngaFlex Labels, working in the I.T area!</h6>
+<h6>✧ Working as an I.T intership at the IngaFlex Labels!</h6>
   <h6>✧ 4h semester of <b>Software engeneering</b>.</h6> 
   <h6>✧ If you need help, ask me! It would be a pleasure to help you!!!</h6> 
   <h5>✧ Thanks for visiting my profile. </h5>
