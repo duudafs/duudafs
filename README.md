@@ -15,7 +15,6 @@
   <h6>✧ Advanced level english</h6>
 <h6>✧ I've recently started as an intership at the IngaFlex Labels, working in the I.T area!</h6>
   <h6>✧ Always liked technology since I was a kid.</h6> 
-  <h6>✧ Reecently studying:  ⋆  React.js ⋆  Java  ⋆  PHP  ⋆  MySql  </h6>
   <h6>✧ If you need help, ask me! It would be a pleasure to help you!!!</h6> 
   <h5>✧ Thanks for visiting my profile. </h5>
 </p>
@@ -30,6 +29,7 @@
  
 </div>
 
+<h5>₊˚⊹✴︎˚｡⋆₊˚⊹ᰔ₊˚⊹₊˚⊹⋆✴︎˚｡⋆₊˚⊹₊˚⊹₊˚⊹</h5>
 <h5 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/books.png" alt="books"/>  My projects: </h4>
 
 
