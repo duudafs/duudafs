@@ -23,9 +23,9 @@
   <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" heigth="50" width="60">
   <img src ="https://img.shields.io/badge/CSS-87b576?&style=for-the-badge&logo=css3&logoColor=white" align="center" heigth="50" width="60">
   <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" align="center" heigth="60" width="60"]>
-  <img src ="https://img.shields.io/badge/JavaScript-cfa7c1.svg?style=for-the-badge&logo=JavaScript&logoColor=black" align="center" heigth="50" width="80">
+  <img src ="https://img.shields.io/badge/JavaScript-cfa7c1.svg?style=for-the-badge&logo=JavaScript&logoColor=black" align="center" heigth="60" width="80">
   <img src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center" heigth="50" width="60">
-  <img src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=php&logoColor=white" align="center" heigth="60" width="60">
+  <img src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=php&logoColor=white" align="center" heigth="70" width="70>
 
 
  
