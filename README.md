@@ -14,7 +14,7 @@
 <p text-align="center">
   <h6>✧ Advanced level english</h6>
 <h6>✧ I've recently started as an intership at the IngaFlex Labels, working in the I.T area!</h6>
-  <h6>✧ Always liked technology since I was a kid.</h6> 
+  <h6>✧ 4h semester of <b>Software engeneering</b>.</h6> 
   <h6>✧ If you need help, ask me! It would be a pleasure to help you!!!</h6> 
   <h5>✧ Thanks for visiting my profile. </h5>
 </p>
