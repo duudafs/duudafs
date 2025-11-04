@@ -35,9 +35,10 @@
 
 ---
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duudafs&show_icons=true&title_color=c4b3b7&text_color=d6d0d2&icon_color=e3c1d1&bg_color=f0e9eb&hide_border=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duudafs&layout=compact&title_color=c4b3b7&text_color=e3c1d1&bg_color=f0e9eb&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duudafs&show_icons=true&title_color=c4b3b7&text_color=d6c9cf&icon_color=e3c1d1&bg_color=f0e9eb&hide_border=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duudafs&layout=compact&title_color=c4b3b7&text_color=bfa4b2&bg_color=f0e9eb&hide_border=true"/>
 </div>
+
 
 ---
 <h4 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/books.png" alt="books"/>  My projects: </h4>
