@@ -29,7 +29,7 @@
  
 </div>
 
-<h5>₊˚⊹✴︎˚｡⋆₊˚⊹ᰔ₊˚⊹₊˚⊹⋆✴︎˚｡⋆₊˚⊹₊˚⊹₊˚⊹</h5>
+<h5>₊ ⊹ ˚ ₊  ๋ ࣭ ⭑ ₊ ⊹ ˚ ₊  ๋ ࣭ ⭑ ₊ ⊹ ˚ ₊  ๋ ࣭ ⭑ </h5>
 <h5 style="font-weight: bold;"><img width="20" height="20" src="https://img.icons8.com/color-pixels/32/books.png" alt="books"/>  My projects: </h4>
 
 
