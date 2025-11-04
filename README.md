@@ -14,8 +14,8 @@
 <p text-align="center">
   <h6>✧ Advanced level english</h6>
 <h6>✧ I've recently started as an intership at the IngaFlex Labels, working in the I.T area!</h6>
-  <h6>✧ Always liked technology and this kind os stuff since I was a kid.</h6> 
-  <h6>✧ I'm curious about discovering new things, studying new lenguages and be creative.</h6>
+  <h6>✧ Always liked technology since I was a kid.</h6> 
+  <h6>✧ Reecently studying:  ⋆  React.js ⋆  Java  ⋆  PHP  ⋆  MySql  </h6>
   <h6>✧ If you need help, ask me! It would be a pleasure to help you!!!</h6> 
   <h5>✧ Thanks for visiting my profile. </h5>
 </p>
