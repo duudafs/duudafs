@@ -16,8 +16,8 @@
 <p text-align="center">
   <h6>✧ Advanced level english.</h6>
 <h6>✧ Working as an I.T intership at IngaFlex Labels.</h6>
-  <h6>✧ 4h semester of <b>Software engeneering</b>.</h6> 
-  <h6>✧ If you need help, ask me! It would be a pleasure to help you!!!</h6> 
+  <h6>✧ 5h semester of <b>Software engeneering</b>.</h6> 
+  
 </p>
 
 ---
