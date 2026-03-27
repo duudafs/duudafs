@@ -26,7 +26,6 @@
 <div>
   <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" heigth="55" width="70">  
   <img src ="https://img.shields.io/badge/CSS-87b576?&style=for-the-badge&logo=css3&logoColor=white" align="center" heigth="35" width="40">  
-  <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" align="center" heigth="55" width="63"> 
   <img src ="https://img.shields.io/badge/JavaScript-deb4c1?style=for-the-badge&logo=JavaScript&logoColor=white" align="center" heigth="30" width="96">
   <img src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center" heigth="35" width="58">
   <img src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" align="center" heigth="55" width="73">
